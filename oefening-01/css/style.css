@@ -16,3 +16,8 @@ a, a:hover {
 .koffiebruin{
   color: #ca8446;
 }
+
+.background-slider{
+  width: 100%;
+  background-color: gray;
+}
